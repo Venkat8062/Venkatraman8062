@@ -1,19 +1,22 @@
 # Hi, I'm Venkatraman 👋
 
-I am an entry-level **Cloud Engineer** focused on building and managing
-cloud infrastructure with a strong emphasis on reliability, security,
-and automation.
+I am an entry-level Cloud Engineer with hands-on experience building
+and deploying cloud infrastructure using AWS. I focus on understanding
+core infrastructure concepts, security basics, and automation practices
+used in real-world environments.
+
 
 ## 🔧 Core Skills
 - Cloud: AWS (EC2, S3, IAM, VPC, CloudFront)
-- Infrastructure as Code: Terraform (basic)
+- Infrastructure: Basics of Terraform & cloud provisioning
 - Operating Systems: Linux
-- Scripting: Bash, Python
+- Scripting: Python, Bash
 - Version Control: Git & GitHub
 
 ## 📌 Featured Projects
 - **Cloud Resume Challenge**  
-  Cloud-hosted resume using AWS services and Infrastructure as Code.  
+  Cloud-hosted resume demonstrating end-to-end cloud deployment,
+  basic infrastructure design, and service integration on AWS.
   👉 https://github.com/Venkat8062/cloud-resume
 
 - **Telecom Churn Analysis**  
