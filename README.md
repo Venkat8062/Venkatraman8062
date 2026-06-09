@@ -1,34 +1,47 @@
-# Hi, I'm Venkatraman 👋
+# Venkatraman S — Cloud & DevOps Engineer
 
-I am an entry-level Cloud Engineer with hands-on experience building
-and deploying cloud infrastructure using AWS. I focus on understanding
-core infrastructure concepts, security basics, and automation practices
-used in real-world environments.
+Entry-level Cloud Operations and DevOps engineer. 
+AWS re/Start graduate. Based in India, open to remote roles (US/UK hours).
 
+---
 
-## 🔧 Core Skills
-- Cloud: AWS (EC2, S3, IAM, VPC, CloudFront)
-- Infrastructure: Basics of Terraform & cloud provisioning
-- Operating Systems: Linux
-- Scripting: Python, Bash
-- Version Control: Git & GitHub
+## 🛠 Skills
 
-## 📌 Featured Projects
-- **Cloud Resume Challenge**  
-  Cloud-hosted resume demonstrating end-to-end cloud deployment,
-  basic infrastructure design, and service integration on AWS.
-  👉 https://github.com/Venkat8062/cloud-resume
+**Cloud:** AWS — EC2, IAM, SSM, S3, VPC, CloudFront, Lambda, 
+           API Gateway, DynamoDB, CloudWatch, ECR, Route 53  
+**IaC:** Terraform  
+**Containers:** Docker, Kubernetes (Minikube), Helm  
+**CI/CD:** GitHub Actions (OIDC), Jenkins, GitLab CI/CD  
+**Monitoring:** Prometheus, Grafana, CloudWatch  
+**Config Mgmt:** Ansible  
+**OS & Scripting:** Linux (Ubuntu), Bash, Python  
+**Version Control:** Git, GitHub  
 
-- **Telecom Churn Analysis**  
-  Business-focused data analysis project demonstrating structured
-  problem solving and insights.  
-  👉 https://github.com/Venkat8062/Telecom_Churn_Prediction
+---
 
-## 🎯 Current Focus
-- Strengthening AWS fundamentals
-- Building production-style cloud projects
-- Learning DevOps and automation best practices
+## 🚀 Projects
+
+### 🔐 Secure CI/CD Pipeline — EC2 + SSM + OIDC
+SSH-free deployment to AWS EC2 using GitHub Actions with OIDC 
+auth (no static credentials), Terraform infrastructure, 
+SSM-managed runtime, and explicit deployment validation.  
+→ [github.com/Venkat8062/cloud-devops-ec2-ssm-cicd](https://github.com/Venkat8062/cloud-devops-ec2-ssm-cicd)
+
+### ☁️ Cloud Resume — Serverless AWS Application
+Fully serverless: S3 + CloudFront + API Gateway + Lambda + 
+DynamoDB. HTTPS via ACM, CORS policies, IAM least-privilege, 
+CloudWatch-based RCA.  
+→ Live: https://duirdzfec6aiw.cloudfront.net  
+→ [github.com/Venkat8062/Cloud-Resume](https://github.com/Venkat8062/Cloud-Resume)
+
+### 📊 DevOps Monitoring Stack
+FastAPI app monitored with Prometheus + Grafana (RED metrics), 
+Ansible for idempotent server setup, Kubernetes with liveness 
+and readiness probes, Jenkins CI/CD with branch protection.  
+→ [github.com/Venkat8062/devops-monitoring-project](https://github.com/Venkat8062/devops-monitoring-project)
+
+---
 
 ## 📫 Contact
-- LinkedIn: www.linkedin.com/in/venkatraman8062
-- Email: venkatraman8062@gmail.com
+LinkedIn: [venkatraman8062](https://linkedin.com/in/venkatraman8062)  
+Email: venkatraman8062@gmail.com
